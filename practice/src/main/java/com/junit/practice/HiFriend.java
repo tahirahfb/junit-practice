@@ -12,7 +12,7 @@ public final class HiFriend {
      * @param args The arguments of the program.
      */
     public static void main(String[] args) {
-        String name = "Larry";
+        String name = "Larry Sprinkle";
         System.out.println(hiFriend(name));
     }
 
